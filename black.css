@@ -4205,6 +4205,10 @@ comments { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.25); }
     color: #828282;
 }
 
+.c-texty_input.focus .c-texty_input__button {
+    color: #828282
+}
+
 .p-threads_footer__input .p-message_input_file_button.p-message_input_file_button--active, .p-threads_footer__input .p-message_input_file_button:hover {
     color: #e6e6e6;
     background: #424242;
