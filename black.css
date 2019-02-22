@@ -4192,13 +4192,13 @@ comments { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.25); }
 }
 
 .p-threads_footer__input .p-message_input_field.focus ~ .p-message_input_file_button:not(:hover) {
-    border-color: #616061;
+    border-color: #363636;
     color: #fff
 }
 
 .p-threads_footer__input .p-message_input_field {
     background: #545454;
-    border-color: #b2b2b3;
+    border-color: #363636;
 }
 
 .c-texty_input__button {
