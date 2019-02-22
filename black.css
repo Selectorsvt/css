@@ -4202,18 +4202,14 @@ comments { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.25); }
     z-index: 200
 }
 
+.p-threads_footer__input .p-message_input_field.focus ~ .p-message_input_file_button:not(:hover) {
+    border-color: #616061;
+    color: #fff
+}
+
 .p-threads_footer__input .p-message_input_field {
     background: #545454;
-    border-radius: 4px;
-    border-width: 1px;
     border-color: #b2b2b3;
-    min-height: 42px;
-    min-width: 1px;
-    padding-top: 0;
-    padding-bottom: 8px;
-    flex: 1;
-    padding-left: 43px;
-    z-index: 200;
 }
 
 /*.c-texty_input .ql-placeholder {
