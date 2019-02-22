@@ -4184,11 +4184,11 @@ comments { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.25); }
 .p-threads_footer__input--legacy .p-message_input_file_button {
     border: 1px solid #424242;
     background: padding-box #545454;
-    color: #949494;
+    color: #e6e6e6;
 }
 
 .p-threads_footer__input .p-message_input_file_button {
-    color: #949494;
+    color: #e6e6e6;
 }
 
 .p-threads_footer__input .p-message_input_field.focus ~ .p-message_input_file_button:not(:hover) {
