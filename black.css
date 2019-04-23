@@ -4244,3 +4244,36 @@ comments { box-shadow: inset 1px 0 0 rgba(0, 0, 0, 0.25); }
 .c-message__sender a {
     color: #e6e6e6;
 }
+
+.p_threads_view_load_newer_button, .p_threads_view_load_older_button {
+    height: 32px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    background: #222;
+    padding-left: 12px;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+
+.c-link--button {
+    background: none;
+    border: 0;
+    color: inherit;
+    font: inherit;
+    margin: 0;
+    line-height: inherit;
+    overflow: initial;
+    padding: 0;
+    text-align: initial;
+    vertical-align: initial;
+    cursor: pointer;
+    color: #949494;
+    text-decoration: none;
+    vertical-align: baseline;
+}
+
+    .c-link--button:active, .c-link--button:hover {
+        color: rgba(230, 230, 230, 0.8);
+        text-decoration: underline;
+    }
