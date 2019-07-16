@@ -1,0 +1,10 @@
+.TeamBackground {
+  position: absolute;
+  background: black;
+  text-align: center;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  user-select: none;
+}
